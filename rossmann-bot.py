@@ -17,6 +17,9 @@ TOKEN = '7491500092:AAGvBhwv_OJB8l90SIgFWzdF62qhQ3zl0bA'
 # Webhook
 #https://api.telegram.org/bot7491500092:AAGvBhwv_OJB8l90SIgFWzdF62qhQ3zl0bA/setWebhook?url=https://f797cdf47f0d23.lhr.life
 
+# Webhook Heroku
+#https://api.telegram.org/bot7491500092:AAGvBhwv_OJB8l90SIgFWzdF62qhQ3zl0bA/setWebhook?url=https://rossmann-bot-83364145feee.herokuapp.com/
+
 # send messages
 #https://api.telegram.org/bot7491500092:AAGvBhwv_OJB8l90SIgFWzdF62qhQ3zl0bA/sendMessage?chat_id=296161245&text=Hi, Arthur. I am doing good, tks!
 
